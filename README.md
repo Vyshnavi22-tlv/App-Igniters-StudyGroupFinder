@@ -1,1 +1,1 @@
-# App-Igniters-StdyGroupFinder
+# App-Igniters-StudyGroupFinder
