@@ -1,36 +1,56 @@
-TEAM-5 APP IGNITERS
-Team mates:
-1.	Lakshmi Vyshnavi T – 24WH1A05AA – CSE:F
-2.	Spoorthy Y - 24WH1A0522 - CSE:A
-3.	Hansika - 24WH1A05J1 - CSE-D
-Problem Statement:
-Students often struggle to find consistent study partners, stay motivated, and access organized learning resources. Existing tools are scattered, forcing learners to switch between multiple apps for notes, communication, scheduling, motivation, and group coordination. This app unifies all these functions in one place.
-Idea Description: - STUDEE
-The (STUDEE) App is a collaborative learning platform that helps students discover or create study groups, join private rooms, access flashcards, take quizzes, schedule study sessions, and communicate through chat or audio/video calls. It integrates roadmaps, productivity tools, streaks, and note‑taking features to enhance learning and accountability.
-Theme/Genre:
-“Learn Together”, Education
-List of base features:
-•	Non-Negotiable:
-	Login/Signup
-	Dashboard
-	Study Group Finder
-	Private Room Interface
-	Chat Screen
-	Notes Editor
-•	Good-to-have:
-	Roadmaps
-	Schedules
-	Flashcards & Quiz Module
-	Streaks
-	Integration of (LinkedIn, GitHub)
-•	Not-implementing:
-	AI notes summarizer
-	Calls
-•	Tech-Stack:
+App Name – Study Group Finder & Collaborative Learning App
+
+A unified learning platform designed to help students find study partners, join or create study groups, stay organized, and access essential learning tools in one place. The app integrates notes, chat, scheduling, flashcards, and roadmaps, eliminating the need to switch between multiple applications.
+
+Features
+Core Features (Non-Negotiable)
+
+Login / Signup
+
+User Dashboard
+
+Study Group Finder
+
+Private Room Interface
+
+Real-time Chat
+
+Notes Editor
+
+Good-to-Have Features
+
+Learning Roadmaps
+
+Study Schedules / Planner
+
+Flashcards and Quiz Module
+
+Streak Tracking
+
+LinkedIn and GitHub Integration
+
+Not Implementing (Phase-1)
+
+AI Notes Summarizer
+
+Audio / Video Calls
+
+Tech Stack
 Frontend
-	Kotlin
-	Android Studio(IDE)
-         Backend
-	Firebase 
-•	Time Line :
-    5-6 weeks
+
+Kotlin
+
+Android Studio
+
+Backend
+
+Firebase Authentication
+
+Firebase Firestore / Realtime Database
+
+Firebase Storage
+
+Firebase Cloud Messaging (optional)
+
+Development Timeline:
+(5–6 Weeks)
