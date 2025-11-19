@@ -1,56 +1,69 @@
-App Name – Study Group Finder & Collaborative Learning App
+STUDEE – Collaborative Study Group App
+TEAM-5 APP IGNITERS
+Team Members
 
-A unified learning platform designed to help students find study partners, join or create study groups, stay organized, and access essential learning tools in one place. The app integrates notes, chat, scheduling, flashcards, and roadmaps, eliminating the need to switch between multiple applications.
+Lakshmi Vyshnavi T – 24WH1A05AA – CSE:F
 
-Features
-Core Features (Non-Negotiable)
+Spoorthy Y – 24WH1A0522 – CSE:A
 
-Login / Signup
+Hansika – 24WH1A05J1 – CSE:D
 
-User Dashboard
+Problem Statement
+
+Students often struggle to find consistent study partners, stay motivated, and access organized learning resources. Existing tools are scattered, forcing learners to switch between multiple apps for notes, communication, scheduling, motivation, and group coordination. This app unifies all these functions in one place.
+
+Idea Description: STUDEE
+
+The STUDEE App is a collaborative learning platform that helps students discover or create study groups, join private rooms, access flashcards, take quizzes, schedule study sessions, and communicate through chat or audio/video calls. It integrates roadmaps, productivity tools, streaks, and note-taking features to enhance learning and accountability.
+
+Theme/Genre
+
+“Learn Together” – Education
+
+List of Base Features
+Non-Negotiable
+
+Login/Signup
+
+Dashboard
 
 Study Group Finder
 
 Private Room Interface
 
-Real-time Chat
+Chat Screen
 
 Notes Editor
 
-Good-to-Have Features
+Good-to-have
 
-Learning Roadmaps
+Roadmaps
 
-Study Schedules / Planner
+Schedules
 
-Flashcards and Quiz Module
+Flashcards & Quiz Module
 
-Streak Tracking
+Streaks
 
-LinkedIn and GitHub Integration
+Integration of (LinkedIn, GitHub)
 
-Not Implementing (Phase-1)
+Not-Implementing
 
-AI Notes Summarizer
+AI notes summarizer
 
-Audio / Video Calls
+Calls
 
 Tech Stack
 Frontend
 
 Kotlin
 
-Android Studio
+Android Studio (IDE)
 
 Backend
 
-Firebase Authentication
+Firebase
 
-Firebase Firestore / Realtime Database
+Time Line
 
-Firebase Storage
-
-Firebase Cloud Messaging (optional)
-
-Development Timeline:
-(5–6 Weeks)
+5–6 weeks
