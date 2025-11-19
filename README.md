@@ -24,46 +24,46 @@ The STUDEE App is a collaborative learning platform that helps students discover
 
 **Non-Negotiable**
 
-Login/Signup
+1.Login/Signup
 
-Dashboard
+2.Dashboard
 
-Study Group Finder
+3.Study Group Finder
 
-Private Room Interface
+4.Private Room Interface
 
-Chat Screen
+5.Chat Screen
 
-Notes Editor
+6.Notes Editor
 
 **Good-to-have**
 
-Roadmaps
+1.Roadmaps
 
-Schedules
+2.Schedules
 
-Flashcards & Quiz Module
+3.Flashcards & Quiz Module
 
-Streaks
+4.Streaks
 
-Integration of (LinkedIn, GitHub)
+5.Integration of (LinkedIn, GitHub)
 
 **Not-Implementing**
 
-AI notes summarizer
+1.AI notes summarizer
 
-Calls
+2.Calls
 
 **Tech Stack**
 *Frontend*
 
-Kotlin
+1.Kotlin
 
-Android Studio (IDE)
+2.Android Studio (IDE)
 
 *Backend*
 
-Firebase
+1.Firebase
 
 **Time Line**
 
