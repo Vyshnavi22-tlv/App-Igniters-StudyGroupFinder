@@ -6,7 +6,7 @@ Lakshmi Vyshnavi T – 24WH1A05AA – CSE:F
 
 Spoorthy Y – 24WH1A0522 – CSE:A
 
-Hansika – 24WH1A05J1 – CSE:D
+Hansika – 24WH1A05J1 – CSE: C
 
 **Problem Statement**
 
