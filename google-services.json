@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232612890240",
+    "project_id": "studee-92f04",
+    "storage_bucket": "studee-92f04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232612890240:android:7d1a91511e1d3d2d368865",
+        "android_client_info": {
+          "package_name": "com.example.studee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNWx6oxWgTklFJKYRxcgAQ_V2eZ8UVjbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
